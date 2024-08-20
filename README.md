@@ -1,4 +1,7 @@
 # super cell
+DOMAIN-SUFFIX,stage.brawlstarsgame.com
+DOMAIN-SUFFIX,brawlstarsgame.com
+DOMAIN-SUFFIX,game.brawlstarsgame.com
 IP-CIDR,13.210.25.233/32,no-resolve
 IP-CIDR,13.212.170.102/32,no-resolve
 IP-CIDR,13.212.171.212/32,no-resolve
